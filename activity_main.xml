@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_sound1"
+        Of="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="152dp"
+        android:layout_marginLeft="152dp"
+        android:layout_marginTop="52dp"
+        android:onClick="playSound"
+        android:text="Game Over"
+        app:layout_constraintEnd_toEndOf=""
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_sound2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:onClick="playSound"
+        android:text="Player Died"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopof="parent"
+        app:layout_contraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteY="323dp" />
+
+    <Button
+        android:id="@+id/button_sound3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="Level Complete"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.472"  />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
