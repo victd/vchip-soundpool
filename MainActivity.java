@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         // This load function takes
         // three parameter context,
-        // file_name and priority.
+        // file_name and priority.  Clarify if it is raw file image
         game_over = soundPool.load(this, R.raw.game_over, 1);
 
         level_complete = soundPool.load(this, R.raw.level_complete,1);
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         case R.id.button_sound1:
 
              // This play function
-             // takes five parameter
+             // takes five parameters
              // leftVolume, rightVolume,
              // priority, loop and rate.
              soundPool.play(game_over, 1, 1, 0, 0, 1);
