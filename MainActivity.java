@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         // This load function takes
         // three parameter context,
         // file_name and priority.  raw file image types are 
+        // add the widget, webhost
         game_over = soundPool.load(this, R.raw.game_over, 1);
 
         level_complete = soundPool.load(this, R.raw.level_complete,1);
