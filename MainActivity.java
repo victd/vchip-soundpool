@@ -8,6 +8,8 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 
+// add mobicontrol android lockdown screen
+
 public class MainActivity extends AppCompatActivity {
     SoundPool soundPool;
     int game_over,
