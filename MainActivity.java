@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 
 // add mobicontrol android lockdown screen
+// ensure no clashes at each level: Rule, Profile, Package
 
 public class MainActivity extends AppCompatActivity {
     SoundPool soundPool;
