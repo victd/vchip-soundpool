@@ -10,6 +10,7 @@ import android.view.View;
 
 // add mobicontrol android lockdown screen
 // ensure no clashes at each level: Rule, Profile, Package
+// recheck for valid license GNU or GPL
 
 public class MainActivity extends AppCompatActivity {
     SoundPool soundPool;
