@@ -12,7 +12,7 @@ import android.view.View;
 // ensure no clashes at each level: Rule, Profile, Package
 // recheck for valid license GNU or GPL
 // down the line, restore the mA, Amperes
-// check alignment of cartridges
+// check alignment of cartridges, detailing company, Superior Detailing on the Lake
 
 public class MainActivity extends AppCompatActivity {
     SoundPool soundPool;
