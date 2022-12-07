@@ -13,6 +13,8 @@ import android.view.View;
 // recheck for valid license GNU or GPL
 // down the line, restore the mA, Amperes
 // check alignment of cartridges, detailing company, Superior Detailing on the Lake
+// access to the Citizen's Band airwave, protocols and rules HAMM
+// rules also apply, language and no cursing
 
 public class MainActivity extends AppCompatActivity {
     SoundPool soundPool;
