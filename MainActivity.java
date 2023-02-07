@@ -14,7 +14,7 @@ import android.view.View;
 // down the line, restore the mA, Amperes
 // check alignment of cartridges, detailing company, Superior Detailing on the Lake
 // access to the Citizen's Band airwave, protocols and rules HAMM
-// rules also apply, language and no cursing, refill, Detroit Diesel 
+// rules also apply, language and no cursing, refill, Detroit Diesel, laptop
 
 public class MainActivity extends AppCompatActivity {
     SoundPool soundPool;
