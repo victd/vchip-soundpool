@@ -8,7 +8,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 
-// add mobicontrol android lockdown screen
+// add mobicontrol android lockdown screen, package may need sideloading
 // ensure no clashes at each level: Rule, Profile, Package
 // recheck for valid license GNU or GPL
 // down the line, restore the mA, Amperes
