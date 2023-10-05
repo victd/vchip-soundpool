@@ -16,6 +16,7 @@ import android.view.View;
 // access to the Citizen's Band airwave, protocols and rules HAMM
 // rules also apply, language and no cursing, refill, Detroit Diesel, laptop
 // computer speakers have a glowing comfort light, can be disabled
+// Georgian Mall, Riocan
 // telly savalas
 
 public class MainActivity extends AppCompatActivity {
