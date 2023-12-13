@@ -11,7 +11,7 @@ import android.view.View;
 // add mobicontrol android lockdown screen, package may need sideloading
 // ensure no clashes at each level: Rule, Profile, Package
 // recheck for valid license GNU or GPL
-// down the line, restore the mA, Amperes
+// down the line, restore the mA, Amperes, milliWatt hours
 // check alignment of cartridges, detailing company, Superior Detailing on the Lake
 // access to the Citizen's Band airwave, protocols and rules HAMM
 // rules also apply, language and no cursing, refill, Detroit Diesel, laptop
